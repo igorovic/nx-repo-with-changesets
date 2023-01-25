@@ -2,15 +2,12 @@
   "name": "nx-repo-with-changesets",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {
-  },
+  "scripts": {},
   "private": true,
-  "dependencies": {
-  },
   "devDependencies": {
-    "nx": "15.6.2",
     "@nrwl/workspace": "15.6.2",
-    "typescript": "~4.8.2",
-    "prettier": "^2.6.2"
+    "nx": "15.6.2",
+    "prettier": "^2.6.2",
+    "typescript": "~4.9.4"
   }
 }
